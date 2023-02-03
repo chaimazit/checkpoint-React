@@ -1,17 +1,17 @@
-#main-container{
+#main-Container{
   place-items: center center ;
 
 }
-#sign-in-form{
+#sign-in-Form{
   max-width: 330px;
 
-}
+}GF
 
-.form-control:focus{
+.Form-Control:focus{
   z-index: 5;
 }
 .bootstrap-logo{
-   width: 72px;
-   height: 72px;
+   width: 70px;
+   height: 70px;
 
 }
